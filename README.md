@@ -1,7 +1,7 @@
 <!------------------------------------------------------------------------------->
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello;My+name+is+Eliezer;I+am+a+computer+engineering+student)
 <!------------------------------------------------------------------------------->
-
+<div align="center">
 - 🔭 I’m currently working on [MedicalControlRest](https://github.com/MedicalControl/MedicalControlApi)
 
 - 🌱 I’m currently learning **Node js, sequelize, express**
@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **eacuna042@gmail.com**
 
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://discord.gg/690644018429820949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="690644018429820949" height="30" width="40" />
