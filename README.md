@@ -2,13 +2,14 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello;My+name+is+Eliezer;I+am+a+computer+engineering+student)
 <!------------------------------------------------------------------------------->
 <div align="center">
-🔭 I’m currently working on [MedicalControlRest](https://github.com/MedicalControl/MedicalControlApi)
 
-🌱 I’m currently learning **Node js, sequelize, express**
+- 🔭 I’m currently working on [MedicalControlRest](https://github.com/MedicalControl/MedicalControlApi)
 
-👯 I’m looking to collaborate on [cclindenb](https://github.com/lindenb/cclindenb)
+- 🌱 I’m currently learning **Node js, sequelize, express**
 
-📫 How to reach me **eacuna042@gmail.com**
+- 👯 I’m looking to collaborate on [cclindenb](https://github.com/lindenb/cclindenb)
+
+- 📫 How to reach me **eacuna042@gmail.com**
 
 </div>
 <h3 align="center">Connect with me:</h3>
