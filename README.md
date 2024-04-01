@@ -1,5 +1,6 @@
+<!------------------------------------------------------------------------------->
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello;My+name+is+Eliezer;I+am+a+computer+engineering+student)
-<h3 align="center">I am a computer engineering student</h3>
+<!------------------------------------------------------------------------------->
 
 - 🔭 I’m currently working on [MedicalControlRest](https://github.com/MedicalControl/MedicalControlApi)
 
