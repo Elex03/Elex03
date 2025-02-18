@@ -1,7 +1,7 @@
 <!------------------------------------------------------------------------------->
 <h3>{</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello;My+name+is+Eliezer;I+am+a+computer+engineering+student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello+world;My+name+is+Eliezer;I+am+a+computer+engineering+student)
 <!------------------------------------------------------------------------------->
 <div align="center">
 
@@ -10,10 +10,14 @@
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://discord.gg/690644018429820949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="690644018429820949" height="30" width="40" />
+  <a href="https://discord.gg/690644018429820949" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=2zua3uRQk8b0&format=png&color=000000" alt="690644018429820949" height="35" width="35" />
     <a href="mailto:eacuna042@gmail.com" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="20" width="30" />
+  <img align="center" src="https://img.icons8.com/?size=100&id=CodoMZeFHZxE&format=png&color=000000" alt="Gmail" height="35" width="35" />
 </a>
+
+
+  <img align="center" src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000" alt="Gmail" height="35" width="35" />
+
 </p>
 
 <div align="center">  
