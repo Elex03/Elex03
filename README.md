@@ -11,6 +11,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://discord.gg/690644018429820949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="690644018429820949" height="30" width="40" />
+    <a href="mailto:eacuna042@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="20" width="30" />
+</a>
 </p>
 
 <div align="center">  
