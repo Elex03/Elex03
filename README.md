@@ -4,9 +4,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello+world;My+name+is+Eliezer;I+am+a+computer+engineering+student)
 <!------------------------------------------------------------------------------->
 <div align="center">
-
-📫 How to reach me **eacuna042@gmail.com**
-
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
