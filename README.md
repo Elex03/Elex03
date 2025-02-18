@@ -3,13 +3,7 @@
 <!------------------------------------------------------------------------------->
 <div align="center">
 
-- 🔭 I’m currently working on [MedicalControlRest](https://github.com/MedicalControl/MedicalControlApi)
-
-- 🌱 I’m currently learning **Node js, sequelize, express**
-
-- 👯 I’m looking to collaborate on [cclindenb](https://github.com/lindenb/cclindenb)
-
-- 📫 How to reach me **eacuna042@gmail.com**
+📫 How to reach me **eacuna042@gmail.com**
 
 </div>
 <h3 align="center">Connect with me:</h3>
